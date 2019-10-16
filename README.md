@@ -1,6 +1,7 @@
 # emplosystem_test
 Automation tests for sending message form
 
+Proper class with test : "ContactPageTest"
 
 Software version:
 Chrome: v. 77.0.3865.120 (64-bit)
